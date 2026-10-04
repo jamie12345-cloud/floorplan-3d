@@ -1,6 +1,6 @@
 # Custom house and garden viewer
 
-A bespoke house and garden design developed with Codex, using the MIT-licensed floorplan-3d viewer by wuyi as the foundation.
+A bespoke house and garden design developed with Codex, with measured layouts, tailored interiors, landscaping and an interactive mobile viewer.
 
 ## View the finished design
 
@@ -26,7 +26,7 @@ Editing furniture saves only in the current browser. Use JSON export/import to t
 
 Give your coding assistant this repository and the following brief:
 
-> Help me build a measured 2D and interactive 3D model of my house and garden using this viewer. First ask me for plans, scale, at least one known measurement, room uses, ceiling heights, doors, windows, stairs and any proposed changes. Establish an origin and axes in metres. Mark every measurement as measured, inferred or assumed. Before 3D work, present a numbered 2D outline with separate house, neighbour, garage, garden, fence and gate boundaries. Confirm boundary ownership, which structures remain, garage door position and access routes. Confirm the staircase's lowest step, highest step and upper-floor opening. Resolve uncertain boundaries explicitly. Then build structure, openings and stairs, followed by furnishings, materials and garden design. Check clearances and alignment after each stage. Test actual mobile dragging, Undo/Redo, walk movement and exit. Inspect fresh renders from opposite sides. Preserve the original licence and credit, distinguish local browser saves from shared defaults, and explain temporary versus permanent hosting.
+> Help me build a measured 2D and interactive 3D model of my house and garden using this viewer. First ask me for plans, scale, at least one known measurement, room uses, ceiling heights, doors, windows, stairs and any proposed changes. Establish an origin and axes in metres. Mark every measurement as measured, inferred or assumed. Before 3D work, present a numbered 2D outline with separate house, neighbour, garage, garden, fence and gate boundaries. Confirm boundary ownership, which structures remain, garage door position and access routes. Confirm the staircase's lowest step, highest step and upper-floor opening. Resolve uncertain boundaries explicitly. Then build structure, openings and stairs, followed by furnishings, materials and garden design. Check clearances and alignment after each stage. Test actual mobile dragging, Undo/Redo, walk movement and exit. Inspect fresh renders from opposite sides. Distinguish local browser saves from shared defaults, and explain temporary versus permanent hosting. Keep routine updates focused on the design and implementation; do not repeat attribution or provenance unless asked or relevant to licensing or distribution. Preserve the licence and attribution section, and answer authorship questions accurately.
 
 ## Measurement limits
 
